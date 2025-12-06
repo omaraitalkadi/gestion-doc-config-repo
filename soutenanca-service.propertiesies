@@ -1,1 +1,2 @@
-ECHO is on.
+spring.application.name=soutenance-service
+server.port=8083
